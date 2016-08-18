@@ -1,5 +1,5 @@
 {
-  "name": "angular-canvas-painter2",
+  "name": "angular-canvas-painter",
   "version": "0.5.3",
   "description": "Angular.js directive to paint on a canvas on desktop or touch devices",
   "main": "dist/angular-canvas-painter.min.js",
@@ -36,8 +36,12 @@
     "gulp-uglify": "^0.3.1",
     "mkdirp": "^0.3.5"
   },
+  "bugs": {
+    "url": "https://github.com/pwambach/angular-canvas-painter/issues"
+  },
+  "homepage": "https://github.com/pwambach/angular-canvas-painter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SuryaL/angular-canvas-painter.git"
+    "url": "https://github.com/pwambach/angular-canvas-painter.git"
   }
 }
